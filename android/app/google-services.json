@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991442828448",
+    "project_id": "shopease-c181f",
+    "storage_bucket": "shopease-c181f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991442828448:android:c848498f11160e72925dc5",
+        "android_client_info": {
+          "package_name": "com.example.shopease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991442828448-s2pivklg38odfprlvjq76hqpdb4k7ejl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGz2boxVCAMRhaFGY3iS8RiDsx2uPb9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991442828448-s2pivklg38odfprlvjq76hqpdb4k7ejl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
